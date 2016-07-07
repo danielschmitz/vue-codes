@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Plugin</h1>
-    <p>{{ valor | real }}
+    <p>{{ valor | dollar }}
   </div>
 
 </template>

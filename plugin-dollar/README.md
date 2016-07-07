@@ -1,4 +1,4 @@
-# plugin-real
+# plugin-dollar
 
 > A Vue.js project
 
