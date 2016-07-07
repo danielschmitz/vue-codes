@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import real from '../real'
-Vue.use(real)
+import dollar from '../dollar'
+Vue.use(dollar)
 
 new Vue({
   el: 'body',
